@@ -13,24 +13,28 @@ The app features three core functionalities: SEARCH, RESULTS SEARCH and HTML SUM
   This functionality allows you to search via the WikiMedia Action API and the search bar at the top of the results frame for the topic you type in.
   Just like this:
   ![image](https://github.com/user-attachments/assets/8ba50033-b0b4-4202-a194-3a27b6a3fb92)
+  <br>
   
   The 10 most relevant search results related to your search will be provided in the frame below the search bar.
   
 ### RESULTS SEARCH
   However, as you may have noticed, 10 results are, depending on the length, quite a lot still and skimming through them is a highly impractical chore.
   ![image](https://github.com/user-attachments/assets/13951557-508a-4c21-b0a9-ab833287c393)
-
+  <br>
+  
   That's when the search bar below the frame plays a role here: by typing in this second field, the results will be altered to highlight
   the paragraph where our subsearch terms are located.
   ![image](https://github.com/user-attachments/assets/b13095e9-2eb3-4d3c-83d6-bcd2b9682855)
-
+  <br>
+  
   Note that this field is case sensitive, as such, typing "GitHub" will yield different results from typing "github".
   
 ### HTML SUMMARY
   The button in the right corner of the screen is used to print out an html fild called "resultados.html" that will display
   the subsearch results in a more aesthetic fashion.
   ![image](https://github.com/user-attachments/assets/837afad0-e358-45b3-815d-0317727e755b)
-
+  <br>
+  
   At least according to Google's aesthetics.
 
 The looks in this project are meant to be goofy and to emulate a google search. Mainly to the amusement of the people who find this project.
