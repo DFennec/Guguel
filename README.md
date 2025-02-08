@@ -4,6 +4,8 @@
 <br>
 
 ![image](https://github.com/user-attachments/assets/cc62eda6-23ac-4394-bf0e-44a4bb6d4310)
+
+<br>
 One-window app made with Python, TKinter, SQLite3, BeautifulSoup4 and the MediaWiki Action API.
 
 ## FUNCTIONALITIES
