@@ -1,6 +1,7 @@
 # Guguel
 ### Simple API calling & scraping project mocking Google: search about any topic and get the most relevant content scraped.
 `Note: bear in mind that this project was built for a subject taught in Spanish and, as such, its menus are in Spanish.` 
+
 <br>
 ![image](https://github.com/user-attachments/assets/cc62eda6-23ac-4394-bf0e-44a4bb6d4310)
 One-window app made with Python, TKinter, SQLite3, BeautifulSoup4 and the MediaWiki Action API.
